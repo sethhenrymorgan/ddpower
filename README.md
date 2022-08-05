@@ -1,2 +1,2 @@
 # ddpower
-Power calculations difference-in-differences
+Power calculations for difference-in-differences
